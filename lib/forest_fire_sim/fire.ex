@@ -14,8 +14,6 @@ defmodule ForestFireSim.Fire do
         else
           loop(world, xy, intensity)
         end
-
-      _ -> IO.puts("xd")
     end
   end
 end
