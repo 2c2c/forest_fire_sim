@@ -1,3 +1,5 @@
+![](http://i.imgur.com/qJdOdou.gif)
+
 ascii forest fire simulation in raw elixir(no genserver)
 
 * A forest with initial fire points randomly generated
